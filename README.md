@@ -13,6 +13,7 @@ If you think I am doing something wrong, please let me know. I am still learning
 
 # System Requirements
 PHP7.x & MySQL 5.x
+
 You may use XAMPP/MAMP/AMPPS to set up your local server and test this project.
 
 Make sure that your server supports mail(), otherwise forgot-password and welcome message wont be working. 
