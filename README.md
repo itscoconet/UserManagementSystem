@@ -9,3 +9,6 @@ I will keep updating this project when I get a chance.
 Suggestions are welcome.
 
 If you think I am doing something wrong, please let me know. I am still learning OOP w/ PHP, so I would be grateful if you give me feedback on where I can improve more.
+
+
+<h1>System Requirements</h1>
