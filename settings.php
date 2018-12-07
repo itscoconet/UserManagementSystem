@@ -53,10 +53,11 @@ if(isset($_SESSION['useredit'])) {
 		</form>
 
 <?php
-	}
+	}else{
 
 	/*If user is not logged in and trying to access the settings page*/
-	echo "Please <a href=\"login.php\">Log in</a>"; // or you can also redirect them to your log in page
+		echo "Please <a href=\"login.php\">Log in</a>"; // or you can also redirect them to your log in page
+	}
 }
 ?>
 
